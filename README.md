@@ -12,3 +12,5 @@ Le projet est composé de deux fichiers principaux :
 2. **shiny_app.R** : Ce script R permet de créer une application web Shiny pour visualiser la production d'électricité en France à l'échelle régionale. L'application permet de sélectionner le type d'énergie (nucléaire, thermique, hydraulique, éolienne, solaire, bioénergie) ainsi que l'année souhaitée (2008 - 2022) pour afficher la répartition de la production d'électricité par région sur une carte interactive.
 
 ![Carte des installations électriques en France](leaflet_map.png)
+
+![Capture d'écran de la webapp Shiny](shiny_app.png)
