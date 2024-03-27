@@ -1,7 +1,7 @@
 
 # Projet de Visualisation de Données sur la Production d'Électricité en France
 
-Ce projet consiste en la visualisation de données sur la production d'électricité en France, en utilisant des cartes interactives générées avec le package R "leaflet" et une application web Shiny.
+Ce projet consiste en la visualisation de données sur la production d'électricité en France, en utilisant une carte de la repartition des sites de productions électriques générée avec le package R "leaflet" et une application web Shiny.
 
 ## Structure du Projet
 
